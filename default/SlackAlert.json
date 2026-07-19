@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1784487649918,
+    "description" : "slack alert",
+    "identifier" : "SlackAlert",
+    "lastModifiedTimestamp" : 1784487649918,
+    "name" : "Slack_Alert",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
