@@ -302,7 +302,7 @@
         "Socket Idle Connections" : "5",
         "Request Body Enabled" : "true",
         "OAuth2 Access Token Refresh Strategy" : "ON_TOKEN_EXPIRATION",
-        "HTTP URL" : "https://integ-con-demo.sellina.io/v1/alerts/slack",
+        "HTTP URL" : "https://integ-co-demo.sellina.io/v1/alerts/slack",
         "Socket Idle Timeout" : "5 mins",
         "Response Redirects Enabled" : "True",
         "Socket Write Timeout" : "300 secs",
@@ -814,6 +814,6 @@
   "snapshotMetadata" : {
     "author" : "newqausername",
     "flowIdentifier" : "SlackAlert",
-    "timestamp" : 1784487651171
+    "timestamp" : 1784487797610
   }
 }
